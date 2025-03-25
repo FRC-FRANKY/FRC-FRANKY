@@ -1,6 +1,6 @@
 # FRC-FRANK / README.md
 
-![Coding From Home](https://your-image-link.com)
+![Code Abnormality]([https://your-image-link.com](https://i.pinimg.com/originals/8f/ef/2e/8fef2e8c3b0b91c868824cf7cebc3f97.gif))
 
 ### hehe I'm a coder
 
