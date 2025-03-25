@@ -6,7 +6,7 @@
 
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
-### Technologies I Use:
+### Program that I Use:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
