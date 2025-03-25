@@ -1,12 +1,9 @@
-# FRC-FRANK / README.md
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/8f/ef/2e/8fef2e8c3b0b91c868824cf7cebc3f97.gif" width="250" height="250"/>
 </p>
 
 <p align="center"><b>Code Abnormality</b></p>
 
----
 
 ### Technologies I Use:
 
@@ -22,4 +19,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
----
+
