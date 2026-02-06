@@ -1,262 +1,157 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Frank Oliver Bentoy | Portfolio</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+#
 
-  <!-- Material Icons -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+<!-- ===================== HEADER ===================== -->
 
-  <style>
-    *{box-sizing:border-box;margin:0;padding:0;font-family:'Inter',sans-serif}
+<div align="center">
 
-    body{
-      background:#f8fafc;
-      color:#1f2933;
-      line-height:1.6;
-    }
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Frank%20Oliver%20Bentoy&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-    header{
-      background:white;
-      padding:60px 20px;
-    }
+<p><i>Web Developer · ASP.NET & Full‑Stack · IoT & Web Systems</i></p>
 
-    .container{
-      max-width:1100px;
-      margin:auto;
-    }
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=500&color=9CA3AF&center=true&vCenter=true&width=600&lines=ASP.NET+%26+Razor+Pages+Development;Database-driven+Web+Applications;Academic+%26+Personal+Software+Projects;Always+learning+new+technologies"/>
 
-    .hero{
-      display:grid;
-      grid-template-columns:1fr 1fr;
-      gap:40px;
-      align-items:center;
-    }
+</div>
 
-    h1{font-size:42px;margin-bottom:10px}
-    h2{font-size:28px;margin-bottom:20px}
-    h3{margin-bottom:10px}
+---
 
-    .subtitle{
-      color:#64748b;
-      font-weight:600;
-      margin-bottom:16px;
-    }
+## About Me
 
-    .btns a{
-      display:inline-block;
-      padding:10px 16px;
-      border-radius:10px;
-      border:1px solid #cbd5e1;
-      margin-right:10px;
-      text-decoration:none;
-      color:#0f172a;
-      font-weight:600;
-      transition:.2s;
-    }
+I am a dedicated **Web Developer** with a solid background in programming and a strong interest in building efficient and scalable web systems. I specialize in developing applications using **ASP.NET, Razor Pages, and database-driven architectures**.
 
-    .btns a.primary{
-      background:#0f172a;
-      color:white;
-      border:none;
-    }
+I have experience working on academic and personal projects including web systems, games, and Internet of Things (IoT) solutions. I enjoy learning new technologies and creating practical software that can be applied in real‑world environments.
 
-    .btns a:hover{transform:translateY(-2px)}
+---
 
-    section{
-      padding:70px 20px;
-    }
+## Current Focus
 
-    .card-grid{
-      display:grid;
-      grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-      gap:20px;
-    }
+* ASP.NET and Razor Pages web application development
+* Database design and integration (SQL Server and MySQL)
+* Full‑stack academic and capstone projects
+* Web systems and IoT-enabled applications
 
-    .card{
-      background:white;
-      padding:22px;
-      border-radius:18px;
-      box-shadow:0 10px 20px rgba(0,0,0,.05);
-    }
+---
 
-    ul{list-style:none}
+## Tech Stack
 
-    ul li{margin-bottom:6px;color:#475569}
+### Languages & Frameworks
 
-    .projects-grid{
-      display:grid;
-      grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
-      gap:20px;
-    }
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+</div>
 
-    .muted{color:#64748b;font-size:14px}
+### Frontend & UI
 
-    footer{
-      background:#0f172a;
-      color:white;
-      text-align:center;
-      padding:40px 20px;
-    }
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
+</div>
 
-    @media(max-width:768px){
-      .hero{grid-template-columns:1fr}
-      h1{font-size:34px}
-    }
-  </style>
-</head>
-<body>
+### Databases, Cloud & Tools
 
-<header>
-  <div class="container hero">
-    <div>
-      <h1>Frank Oliver Narag Bentoy</h1>
-      <div class="subtitle">Web Developer</div>
-      <p>
-        I am a dedicated Web Developer with a strong background in programming. I specialize in building efficient and scalable
-        applications using ASP.NET, Razor Pages, and database‑driven systems. I enjoy learning new technologies and creating
-        solutions that make a real‑world impact.
-      </p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
-      <div class="btns" style="margin-top:20px">
-        <a class="primary" href="mailto:frankoliverbentoy@gmail.com">Contact Me</a>
-        <a href="https://github.com/FRC_FRANKY" target="_blank">GitHub</a>
-        <a href="https://www.linkedin.com/in/frank-oliver-bentoy-33b116238" target="_blank">LinkedIn</a>
-      </div>
-    </div>
-  </div>
-</header>
+---
 
-<section>
-  <div class="container">
-    <h2>About Me</h2>
-    <p>
-      I am currently taking Bachelor of Science in Information Technology at the University of Cebu – Banilad. I have experience
-      working on academic and personal projects such as web systems, games, and IoT applications. My main focus is backend and
-      full‑stack web development, particularly using ASP.NET and database technologies.
-    </p>
-  </div>
-</section>
+## Projects
 
-<section>
-  <div class="container">
-    <h2>Technical Skills</h2>
+**Enrollment System**
+ASP.NET web application using Razor Pages and SQL Server. Designed for managing student enrollment with a focus on data integrity and secure database operations.
 
-    <div class="card-grid">
-      <div class="card">
-        <h3>Languages & Frameworks</h3>
-        <ul id="languages"></ul>
-      </div>
+**Boy Cabbage Web Game**
+A 2D platform game where players guide a character through levels filled with challenges, obstacles, and enemies.
 
-      <div class="card">
-        <h3>Frontend & UI</h3>
-        <ul id="frontend"></ul>
-      </div>
+**JobFilter**
+A PHP-based job matching platform that helps job seekers find relevant job listings based on their skills, experience, and preferences.
 
-      <div class="card">
-        <h3>Databases, Cloud & Tools</h3>
-        <ul id="tools"></ul>
-      </div>
-    </div>
-  </div>
-</section>
+**Cuppa: Your Coffee, Your Way**
+An IoT-enabled smart coffee brewing system that allows users to remotely initiate brewing, schedule automatic brews, and receive real-time alerts through an Android application.
 
-<section>
-  <div class="container">
-    <h2>Projects</h2>
+---
 
-    <div class="projects-grid" id="projects"></div>
-  </div>
-</section>
+## Education
 
-<section>
-  <div class="container" style="display:grid;grid-template-columns:1fr 1fr;gap:40px">
+**Bachelor of Science in Information Technology**
+University of Cebu – Banilad
+2021 – Present
 
-    <div>
-      <h2>Education</h2>
-      <p><strong>Bachelor of Science in Information Technology</strong></p>
-      <p class="muted">University of Cebu – Banilad</p>
-      <p class="muted">2021 – Present</p>
-    </div>
+---
 
-    <div>
-      <h2>Experience</h2>
-      <p><strong>Project Manager – School Project</strong></p>
-      <p class="muted">September 2024 – December 2024</p>
-      <p style="margin-top:10px">
-        Worked with a development team on web-based projects using ASP.NET, SQL Server, and MySQL while helping manage tasks
-        and timelines.
-      </p>
-    </div>
+## Experience
 
-  </div>
-</section>
+**Project Manager – School Project** (September 2024 – December 2024)
 
-<footer>
-  <p><strong>Frank Oliver Narag Bentoy</strong></p>
-  <p>Cebu, Philippines</p>
-  <p>frankoliverbentoy@gmail.com | +63 956 077 2456</p>
-</footer>
+Worked with a development team on academic software projects using ASP.NET, SQL Server, and MySQL. Assisted in task coordination, documentation, and development planning.
 
-<script>
-  const skills = {
-    languages: ["Java", "JavaScript", "React", "C#", "C++", "PHP", "IoT"],
-    frontend: ["HTML5", "CSS3", "Material UI"],
-    tools: ["MySQL", "Firebase", "Git"]
-  };
+---
 
-  const projects = [
-    {
-      title: "Enrollment System",
-      date: "09/2024 – 11/2024",
-      description: "A comprehensive enrollment system developed using ASP.NET with Razor Pages and SQL Server for secure and reliable data management."
-    },
-    {
-      title: "Boy Cabbage Web Game",
-      date: "01/2023 – 05/2023",
-      description: "A 2D platform web game where players guide a character through levels filled with challenges, obstacles, and enemies."
-    },
-    {
-      title: "JobFilter",
-      date: "08/2025 – 12/2025",
-      description: "A PHP-based job matching platform that connects job seekers with relevant job listings based on skills, experience, and preferences."
-    },
-    {
-      title: "Cuppa: Your Coffee, Your Way",
-      date: "08/2025 – 12/2025",
-      description: "An IoT-enabled smart coffee brewing system with Android integration for remote brewing, scheduling, and real-time alerts."
-    }
-  ];
+## GitHub Statistics
 
-  function renderList(id, items){
-    const ul = document.getElementById(id);
-    items.forEach(i => {
-      const li = document.createElement('li');
-      li.textContent = "• " + i;
-      ul.appendChild(li);
-    });
-  }
+<div align="center">
 
-  renderList('languages', skills.languages);
-  renderList('frontend', skills.frontend);
-  renderList('tools', skills.tools);
+<img src="https://github-readme-stats.vercel.app/api?username=FRC_FRANKY&show_icons=true&hide_border=true&theme=transparent"/>
 
-  const projectContainer = document.getElementById('projects');
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRC_FRANKY&layout=compact&hide_border=true&theme=transparent"/>
 
-  projects.forEach(p => {
-    const card = document.createElement('div');
-    card.className = 'card';
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FRC_FRANKY&hide_border=true&theme=transparent"/>
 
-    card.innerHTML = `
-      <h3>${p.title}</h3>
-      <p class="muted">${p.date}</p>
-      <p style="margin-top:10px">${p.description}</p>
-    `;
+</div>
 
-    projectContainer.appendChild(card);
-  });
-</script>
+---
 
-</body>
-</html>
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FRC_FRANKY&theme=minimal"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=FRC_FRANKY&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FRC_FRANKY/FRC_FRANKY/output/github-contribution-grid-snake.svg"/>
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=FRC_FRANKY&label=Profile%20Views&color=0f2027&style=flat"/>
+
+<a href="https://github.com/FRC_FRANKY">
+  <img src="https://img.shields.io/badge/GitHub-FRC_FRANKY-181717?style=flat&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/frank-oliver-bentoy-33b116238">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:frankoliverbentoy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-frankoliverbentoy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+> “Build practical systems that solve real problems and continuously improve through learning.”
+
+<!-- ===================== FOOTER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
