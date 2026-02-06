@@ -1,14 +1,35 @@
 <!-- ===================== HEADER ===================== -->
 
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=180&section=header&text=Frank%20Oliver%20Bentoy&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<p><i>Web Developer · ASP.NET & Razor Pages · IoT Systems</i></p>
+<p>
+  <i>Web Developer · ASP.NET & Razor Pages · IoT Systems</i>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=500&color=9CA3AF&center=true&vCenter=true&width=600&lines=ASP.NET+Web+Applications;Database-Centered+System+Design;Academic+%26+Personal+Projects;Continuously+Improving+My+Skills"/>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?
+  font=JetBrains+Mono
+  &size=16
+  &duration=3500
+  &pause=700
+  &color=9CA3AF
+  &center=true
+  &vCenter=true
+  &width=650
+  &lines=
+  ASP.NET+%26+Razor+Pages+Web+Development;
+  Database-Driven+Applications;
+  Academic+and+Personal+Software+Projects;
+  IoT+Systems+Development;
+  Dedicated+to+Continuous+Learning"
+/>
 
 </div>
+>
 
 ---
 
