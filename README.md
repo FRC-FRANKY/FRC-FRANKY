@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=180&section=header&text=Frank%20Oliver%20Bentoy&fontSize=40&fontColor=7dd3fc&animation=slideIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=180&section=header&text=Frank%20Oliver%20Bentoy&fontSize=40&fontColor=38bdf8&animation=zoom"/>
 
 
 <p><i>Web Developer · ASP.NET & Razor Pages · IoT Systems</i></p>
