@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=180&section=header&text=Frank%20Oliver%20Bentoy&fontSize=40&fontColor=38bdf8&animation=zoom"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=180&section=header&text=Frank%20Oliver%20Bentoy&fontSize=40&fontColor=38bdf8&animation=slideIn"/>
 
 
 <p><i>Web Developer · ASP.NET & Razor Pages · IoT Systems</i></p>
@@ -49,7 +49,6 @@ Through academic and self‑initiated projects, I have developed experience in w
 | ----------- | --------------- |
 | HTML5       | █████████░░ 85% |
 | CSS3        | ████████░░░ 80% |
-| Razor Pages | █████████░░ 85% |
 | Material UI | ███████░░░░ 70% |
 
 ### Databases, Tools & Platforms
