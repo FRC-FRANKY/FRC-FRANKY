@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/78d93872-757e-4c11-bf22-6218841e29f3" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/78d93872-757e-4c11-bf22-6218841e29f3" />
 
 
 <h1 style="
