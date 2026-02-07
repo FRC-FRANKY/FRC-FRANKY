@@ -159,7 +159,7 @@ University of Cebu – Banilad
 </a>
 
 <a href="mailto:frankoliverbentoy@gmail.com">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=220&section=header&text=&fontSize=0"/>
+  <img src="https://img.shields.io/badge/Email-frankoliverbentoy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -170,4 +170,4 @@ University of Cebu – Banilad
 
 <!-- ===================== FOOTER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=220&section=header&text=&fontSize=0&section=footer"/>
