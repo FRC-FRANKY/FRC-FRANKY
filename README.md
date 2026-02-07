@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/78d93872-757e-4c11-bf22-6218841e29f3" />
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=melribeiro&show_icons=true&theme=dark" alt="Mel's Github Stats" />
 
 
 <h1 style="
