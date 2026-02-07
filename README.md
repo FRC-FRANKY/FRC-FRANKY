@@ -170,4 +170,5 @@ University of Cebu – Banilad
 
 <!-- ===================== FOOTER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=220&section=header&text=&fontSize=0&section=footer"/>
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/12143f86-76b4-4d73-934a-49c9c96c14f7&section=footer" />
+
