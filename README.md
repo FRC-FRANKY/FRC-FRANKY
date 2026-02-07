@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=220&section=header&text=&fontSize=0"/>
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/78d93872-757e-4c11-bf22-6218841e29f3" />
+
 
 <h1 style="
   font-size: 3rem;
