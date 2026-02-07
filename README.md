@@ -168,8 +168,3 @@ University of Cebu – Banilad
 ---
 
 > “Design systems with purpose, build with discipline, and grow through constant learning.”
-
-<!-- ===================== FOOTER ===================== -->
-
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/12143f86-76b4-4d73-934a-49c9c96c14f7&section=footer" />
-
