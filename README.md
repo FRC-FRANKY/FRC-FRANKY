@@ -66,7 +66,6 @@ Through academic and self‑initiated projects, I have developed experience in w
 
 | Technology                                                                                                                 | Proficiency     |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28"/> | █████████░░ 85% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/>                        | ████████░░░ 80% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28"/>                     | ███████░░░░ 70% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>                            | ████████░░░ 80% |
@@ -160,7 +159,7 @@ University of Cebu – Banilad
 </a>
 
 <a href="mailto:frankoliverbentoy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-frankoliverbentoy@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=220&section=header&text=&fontSize=0"/>
 </a>
 
 </div>
