@@ -2,14 +2,23 @@
 
 <div align="center">
 
-<img src="<img width="626" height="414" alt="image" src="https://github.com/user-attachments/assets/454d32b9-9e15-4fc3-87ff-de91804444e2" />
-&color=0:020617,50:0f172a,100:020617&height=190&section=header&text=Frank%20Oliver%20Bentoy&fontSize=44&fontColor=22d3ee&animation=zoom"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=220&section=header&text=&fontSize=0"/>
 
+<h1 style="
+  font-size: 3rem;
+  background: linear-gradient(90deg, #22d3ee, #38bdf8, #22d3ee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: -140px;
+">
+  Frank Oliver Bentoy
+</h1>
 
+<p style="color:#9ca3af; font-size:1rem;">
+  Web Developer · ASP.NET · Razor Pages · IoT Systems
+</p>
 
-<p><i>Web Developer · ASP.NET & Razor Pages · IoT Systems</i></p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=500&color=9CA3AF&center=true&vCenter=true&width=600&lines=ASP.NET+Web+Applications;Database-Centered+System+Design;Academic+%26+Personal+Projects;Continuously+Improving+My+Skills"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=600&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+Database-Driven+Systems;ASP.NET+%26+Razor+Pages;IoT-Integrated+Applications;Always+Learning+%26+Improving"/>
 
 </div>
 
@@ -36,32 +45,32 @@ Through academic and self‑initiated projects, I have developed experience in w
 
 ### Programming Languages
 
-| Technology   | Proficiency     |
-| ------------ | --------------- |
-| C# (ASP.NET) | █████████░░ 85% |
-| Java         | ████████░░░ 75% |
-| PHP          | ███████░░░░ 70% |
-| JavaScript   | ███████░░░░ 70% |
-| C++          | ██████░░░░░ 65% |
-| C            | ██████░░░░░ 60% |
+| Technology                                                                                                    | Proficiency     |
+| ------------------------------------------------------------------------------------------------------------- | --------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28"/>         | █████████░░ 85% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/>             | ████████░░░ 75% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/>               | ███████░░░░ 70% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> | ███████░░░░ 70% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"/>   | ██████░░░░░ 65% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/>                   | ██████░░░░░ 60% |
 
 ### Web & UI Technologies
 
-| Technology  | Proficiency     |
-| ----------- | --------------- |
-| HTML5       | █████████░░ 85% |
-| CSS3        | ████████░░░ 80% |
-| Material UI | ███████░░░░ 70% |
+| Technology                                                                                                    | Proficiency     |
+| ------------------------------------------------------------------------------------------------------------- | --------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/>           | █████████░░ 85% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>             | ████████░░░ 80% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="28"/> | ███████░░░░ 70% |
 
 ### Databases, Tools & Platforms
 
-| Technology   | Proficiency     |
-| ------------ | --------------- |
-| SQL Server   | █████████░░ 85% |
-| MySQL        | ████████░░░ 80% |
-| Firebase     | ███████░░░░ 70% |
-| Git & GitHub | ████████░░░ 80% |
-| IoT Systems  | ███████░░░░ 70% |
+| Technology                                                                                                                 | Proficiency     |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28"/> | █████████░░ 85% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/>                        | ████████░░░ 80% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="28"/>                     | ███████░░░░ 70% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>                            | ████████░░░ 80% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="28"/>                    | ███████░░░░ 70% |
 
 ---
 
