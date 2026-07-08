@@ -215,46 +215,6 @@ Developed academic and personal software projects involving:
 
 ---
 
-# 🏆 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FRC_FRANKY&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRC_FRANKY&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FRC_FRANKY&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FRC_FRANKY&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FRC_FRANKY&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
@@ -283,6 +243,6 @@ Developed academic and personal software projects involving:
 
 ![](https://komarev.com/ghpvc/?username=FRC_FRANKY&style=for-the-badge&color=0e75b6)
 
-### ⭐ "Turning ideas into modern, scalable, and meaningful digital experiences."
+### ⭐ "Great software begins with curiosity, grows through discipline, and succeeds through continuous learning."
 
 </div>
