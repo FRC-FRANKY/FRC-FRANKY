@@ -14,7 +14,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-38BDF8?style=for-the-badge)](https://portfolio-lovat-chi-18.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Live%20Website-38BDF8?style=for-the-badge)](https://portfolio-iota-five-3b8wxixnrg.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frank-oliver-bentoy-33b116238)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankoliverbentoy@gmail.com)
 
