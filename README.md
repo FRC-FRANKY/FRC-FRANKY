@@ -163,8 +163,8 @@ An event management platform that allows users to create, organize, and manage e
 **Tech Used**
 
 - React
-- ASP.NET
-- SQL Server
+- Kotlin For Mobile
+-Nodejs
 
 ---
 
